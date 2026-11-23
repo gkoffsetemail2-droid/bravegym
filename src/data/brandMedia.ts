@@ -1,0 +1,17 @@
+export const BRAND_MEDIA = {
+  officialLogo: '/assets/aistudio/images-24_23e8cb53.jpeg',
+  teamCommunity: '/assets/aistudio/Screenshot_2026-11-17_at_19.50.37_452e2ed6.png',
+  studioLounge: '/assets/aistudio/Screenshot_2026-11-17_at_19.50.15_9bc260fd.png',
+  clubExterior: '/assets/aistudio/Screenshot_2026-11-17_at_19.50.25_21de6528.png',
+  ptCoaching: '/assets/aistudio/Screenshot_2026-11-17_at_19.49.15_ce48cce0.png',
+  squatRackFloor: '/assets/aistudio/Screenshot_2026-11-17_at_19.49.07_0d33aa6a.png',
+  cableStrength: '/assets/aistudio/Screenshot_2026-11-17_at_19.48.48_06aa6c85.png',
+  freeWeightsStudio: '/assets/aistudio/Screenshot_2026-11-17_at_19.48.38_f0681a3a.png',
+  groupCoreClass: '/assets/aistudio/Screenshot_2026-11-17_at_19.48.30_97e0ecf1.png',
+  cardioZone: '/assets/aistudio/Screenshot_2026-11-17_at_19.48.21_aeb08018.png',
+  coachCableFly: '/assets/aistudio/Screenshot_2026-11-17_at_19.48.12_b601dc80.png',
+  saunaCover: '/assets/aistudio/Screenshot_2026-11-22_at_13.58.02_be7ab542.png',
+  yogaCover: '/assets/aistudio/Screenshot_2026-11-22_at_13.57.01_ba86db65.png',
+  yogaBanner: '/assets/aistudio/Screenshot_2026-11-22_at_13.56.52_1e68c452.png',
+  lockerCover: '/assets/aistudio/Screenshot_2026-11-22_at_14.06.32_514b5290.png',
+} as const;

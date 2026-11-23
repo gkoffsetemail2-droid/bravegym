@@ -1,0 +1,6 @@
+{
+  "name": "Brave Gym & Fitness — Member Portal",
+  "description": "Exclusive membership portal for Brave Gym & Fitness featuring group class bookings, interactive personal training calendar and rescheduling, PT packages, complimentary sauna and locker reservations, payment center, and club administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
